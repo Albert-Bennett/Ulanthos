@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\bin\Release\Ulanthos.Media.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\bin\Release\Ulanthos.Media.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\obj\Release\Ulanthos.Media.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\obj\Release\Ulanthos.Media.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\bin\Release\Ulanthos.Interfaces.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\bin\Release\Ulanthos.Interfaces.pdb

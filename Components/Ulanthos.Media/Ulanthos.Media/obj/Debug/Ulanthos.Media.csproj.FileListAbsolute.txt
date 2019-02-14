@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\bin\Debug\Ulanthos.Media.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\bin\Debug\Ulanthos.Media.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\bin\Debug\Ulanthos.Interfaces.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\bin\Debug\Ulanthos.Interfaces.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\obj\Debug\Ulanthos.Media.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\obj\Debug\Ulanthos.Media.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Media\Ulanthos.Media\obj\Debug\Ulanthos.Media.csprojResolveAssemblyReference.cache

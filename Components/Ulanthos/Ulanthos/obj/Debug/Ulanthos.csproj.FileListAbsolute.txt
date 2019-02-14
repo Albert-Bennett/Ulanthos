@@ -1,0 +1,13 @@
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\bin\Debug\Ulanthos.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\bin\Debug\Ulanthos.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\bin\Debug\Ulanthos.Helpers.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\bin\Debug\Ulanthos.Interfaces.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\bin\Debug\Ulanthos.Math.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\bin\Debug\Ulanthos.Helpers.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\bin\Debug\Ulanthos.Interfaces.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\bin\Debug\Ulanthos.Math.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\obj\Debug\Ulanthos.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\obj\Debug\Ulanthos.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\bin\Debug\Ulanthos.Media.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\bin\Debug\Ulanthos.Media.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos\Ulanthos\obj\Debug\Ulanthos.csprojResolveAssemblyReference.cache

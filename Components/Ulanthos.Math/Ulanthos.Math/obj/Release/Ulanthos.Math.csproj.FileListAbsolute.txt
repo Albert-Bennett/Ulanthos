@@ -1,0 +1,7 @@
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Math\Ulanthos.Math\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Math\Ulanthos.Math\bin\Release\Ulanthos.Math.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Math\Ulanthos.Math\bin\Release\Ulanthos.Math.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Math\Ulanthos.Math\bin\Release\Ulanthos.Helpers.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Math\Ulanthos.Math\bin\Release\Ulanthos.Helpers.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Math\Ulanthos.Math\obj\Release\Ulanthos.Math.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Math\Ulanthos.Math\obj\Release\Ulanthos.Math.pdb

@@ -1,0 +1,5 @@
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Helpers\Ulanthos.Helpers\bin\Debug\Ulanthos.Helpers.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Helpers\Ulanthos.Helpers\bin\Debug\Ulanthos.Helpers.pdb
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Helpers\Ulanthos.Helpers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Helpers\Ulanthos.Helpers\obj\Debug\Ulanthos.Helpers.dll
+C:\Users\Albert\Desktop\Ulanthos\Components\Ulanthos.Helpers\Ulanthos.Helpers\obj\Debug\Ulanthos.Helpers.pdb

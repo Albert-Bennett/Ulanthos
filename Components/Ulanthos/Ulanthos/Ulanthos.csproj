@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6686EB5E-FD1D-4A47-AC31-C14E4D683232}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ulanthos</RootNamespace>
+    <AssemblyName>Ulanthos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.DirectX, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC\Microsoft.DirectX\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.Direct3D, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC\Microsoft.DirectX.Direct3D\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.Direct3D.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.DirectInput, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC\Microsoft.DirectX.DirectInput\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.DirectInput.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.DirectSound, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC\Microsoft.DirectX.DirectSound\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.DirectSound.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ulanthos.Helpers, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Ulanthos.Helpers\Ulanthos.Helpers\bin\Debug\Ulanthos.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Ulanthos.Interfaces">
+      <HintPath>..\..\Ulanthos.Interfaces\Ulanthos.Interfaces\bin\Debug\Ulanthos.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Ulanthos.Math, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Ulanthos.Math\Ulanthos.Math\bin\Debug\Ulanthos.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="Ulanthos.Media">
+      <HintPath>..\..\Ulanthos.Media\Ulanthos.Media\bin\Debug\Ulanthos.Media.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Deletable.cs" />
+    <Compile Include="Framework\AudioManager.cs" />
+    <Compile Include="Framework\ComponentManager.cs" />
+    <Compile Include="Framework\DrawableUlanComponent.cs" />
+    <Compile Include="Framework\GraphicsDevice.cs" />
+    <Compile Include="Framework\Graphics\Colour.cs" />
+    <Compile Include="Framework\Game.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Framework\Graphics\Font.cs" />
+    <Compile Include="Framework\Graphics\IColour.cs" />
+    <Compile Include="Framework\Graphics\ITextItem.cs" />
+    <Compile Include="Framework\Input\Keyboard.cs" />
+    <Compile Include="Framework\Input\Mouse.cs" />
+    <Compile Include="Framework\UlanComponent.cs" />
+    <Compile Include="Framework\XMLSerializer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Selectable.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
